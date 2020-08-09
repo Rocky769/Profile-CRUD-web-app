@@ -18,3 +18,6 @@ Instructions to use this CRUD application
    self-explanatory. Fill the corresponding forms without discrepancies to complete the intended change.
 
 6. After your work is done, logout of the page.
+
+Note: Github supports only static pages and PHP isn't static. So
+      we cannot host this over here.
